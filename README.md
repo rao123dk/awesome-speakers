@@ -1264,6 +1264,14 @@ Inayaili de León
 Topics: Design Systems, Responsive Web Design, Design Leadership, UI  
 https://twitter.com/yaili
 
+<img src="https://pbs.twimg.com/profile_images/802626927391608833/MmHHmVfD_400x400.jpg" height="70px" width="auto" align="left" alt="" />
+
+Todd Motto  
+Topics: Web Technologies, Angular 
+https://twitter.com/toddmotto
+
+
+
 ## Norwich
 
 <img src="https://i.imgur.com/8Gs1jxd.jpg" height="70px" width="auto" align="left" alt="" />
